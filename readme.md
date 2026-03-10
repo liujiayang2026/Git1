@@ -1,1 +1,9 @@
-I am a student from Northwest University. I am submitting my assignment for the programming experiment class.
+# 程序设计实验课程作业
+
+## 学生信息
+- **姓名**：liujiiayang
+- **学号**：2024117207
+- **学院**：信息科学与技术学院（人工智能学院）
+## 实验内容
+本次实验主要练习C语言基本语法和程序设计方法。
+text/ex01 文件实现了基础的程序设计练习。
